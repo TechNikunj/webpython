@@ -1,0 +1,207 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/nikunjbajpai/Desktop/pingsec-Latency-11-04-2019",
+		"/Users/nikunjbajpai/Desktop/latency-03-April",
+		"/Users/nikunjbajpai/Desktop/Sub endtoend()",
+		"/Users/nikunjbajpai/Desktop/m001/loadMovieDetailsDataset.js",
+		"/Users/nikunjbajpai/Downloads/insertMany-ordered.js",
+		"/Users/nikunjbajpai/Downloads/loadMovieDetailsDataset.js",
+		"/Users/nikunjbajpai/.bash_profile",
+		"/Users/nikunjbajpai/Box Sync/Hands/SPARK NOTES",
+		"/Users/nikunjbajpai/Box Sync/HDFS/MONGODB NOTES",
+		"/Users/nikunjbajpai/Box Sync/HDFS/HBASE NOTES",
+		"/Users/nikunjbajpai/Box Sync/HDFS/SPARK NOTES",
+		"/Users/nikunjbajpai/Box Sync/HDFS/HIVE NOTES",
+		"/Users/nikunjbajpai/Box Sync/HDFS/STEAMINING NOTES",
+		"/Users/nikunjbajpai/Box Sync/HDFS/EDPR_MATERIAL/Live Project 3/sparkstreamin.py",
+		"/Users/nikunjbajpai/Box Sync/HDFS/EDPR_MATERIAL/SPARk/ProjectCode/16_SparkSQL.py",
+		"/Users/nikunjbajpai/Box Sync/HDFS/BDH PROJECTS",
+		"/Users/nikunjbajpai/Box Sync/HDFS/EDPR_MATERIAL/Live Project 2/Support FIles/2. Mysql data ingest/sql_queries_cluster.sql",
+		"/Users/nikunjbajpai/Box Sync/HDFS/EDPR_MATERIAL/practice-hive",
+		"/Users/nikunjbajpai/Box Sync/HDFS/EDPR_MATERIAL/SPARk/ProjectCode/sparkaurpadho",
+		"/Users/nikunjbajpai/Box Sync/HDFS/PYTHON NOTES",
+		"/Users/nikunjbajpai/Box Sync/HDFS/LIVE PROJECT 1",
+		"/Users/nikunjbajpai/Box Sync/HDFS/EDPR_MATERIAL/Live Project 4/This content covers two case studies using TensorF",
+		"/Users/nikunjbajpai/Box Sync/HDFS/EDPR_MATERIAL/Live Project 3/Sentiment Analysis Project",
+		"/Users/nikunjbajpai/Box Sync/HDFS/EDPR_MATERIAL/SPARk/ProjectCode/7_top20EndPoints.py",
+		"/Users/nikunjbajpai/Desktop/netapplogs",
+		"/Users/nikunjbajpai/Box Sync/HDFS/HDFS Notes",
+		"/Users/nikunjbajpai/Box Sync/HDFS/MAP REDUCE NOTES",
+		"/Users/nikunjbajpai/Box Sync/HDFS/> Customer who spent the most",
+		"/Users/nikunjbajpai/Box Sync/HDFS/Spark_script",
+		"/Users/nikunjbajpai/Box Sync/HDFS/PIG_PIG",
+		"/Users/nikunjbajpai/Box Sync/HDFS/top25movies.pig",
+		"/Users/nikunjbajpai/Box Sync/HDFS/PIG NOTES",
+		"/Users/nikunjbajpai/Box Sync/HDFS/CREATE DATABASE nikunj_bajpai;",
+		"/Users/nikunjbajpai/Box Sync/HDFS/hive - 14:10:18",
+		"/Users/nikunjbajpai/Box Sync/HDFS/CREATE EXTERNAL TABLE product_ext",
+		"/Users/nikunjbajpai/Box Sync/HDFS/data2",
+		"/Users/nikunjbajpai/Box Sync/HDFS/data",
+		"/Users/nikunjbajpai/Box Sync/HDFS/Assignments",
+		"/Users/nikunjbajpai/Box Sync/HDFS/EDPR_MATERIAL/Hive/hivescript1.hql",
+		"/Users/nikunjbajpai/Downloads/inv_index/reduce.txt",
+		"/Users/nikunjbajpai/Downloads/inv_index/map.txt",
+		"/Users/nikunjbajpai/Downloads/inv_index/driver.txt",
+		"/script.sh"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 270.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
